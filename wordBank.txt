@@ -1,0 +1,26 @@
+label
+invoice
+post
+document
+postal
+calculations
+copy
+fedex
+statement
+financial
+dhl
+usps
+notification
+irs
+ups
+delivery
+ticket
+wire
+payment
+risky
+locked
+urgent
+right away
+gift card
+waiting
+limited time
